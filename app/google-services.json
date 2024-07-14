@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579919809943",
+    "project_id": "proyecto-papeleria-c68cc",
+    "storage_bucket": "proyecto-papeleria-c68cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579919809943:android:04fbd737cd63e537f448d2",
+        "android_client_info": {
+          "package_name": "com.papel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUMcMQrmAChnHplAXzULNHCBEHz9ZgKeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
